@@ -1,0 +1,23 @@
+.a{
+    background-color: aqua;
+    border: solid 3px blue;
+    width: 200px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    background-color: aqua;
+    border: solid 3px blue;
+    width: 200px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(20deg);  
+}
+.pa{
+    display: flex;
+    margin: 60px;
+}
